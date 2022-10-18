@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-18 20:18+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: .\news\views.py:8
+msgid "PageTitle"
+msgstr "MainPage"
+
+#: .\root\settings.py:125
+msgid "Ukrainian"
+msgstr ""
+
+#: .\root\settings.py:126
+msgid "English"
+msgstr ""
+
+#: .\templates\layouts\base.html:7
+msgid "ShortCaption"
+msgstr "newsPortal"
+
+#: .\templates\layouts\base.html:11
+msgid "SiteCaption"
+msgstr "Web Site About Last News"
+
+#: .\templates\layouts\base.html:38
+msgid "MyCompanyName"
+msgstr "My Company"
+
+#: .\templates\news\index.html:8
+msgid "NewsPageCaption"
+msgstr "News List"
+
+#: .\templates\news\index.html:14
+msgid "ImageColumnName"
+msgstr "Post Image"
+
+#: .\templates\news\index.html:15
+msgid "TitleColumnName"
+msgstr "Post Title"
+
+#: .\templates\news\index.html:16
+msgid "AboutColumnName"
+msgstr "Post About"
+
+#: .\templates\news\index.html:17
+msgid "PublishColumnName"
+msgstr "Publish Date"
+
+#: .\templates\news\index.html:18
+msgid "AuthorColumnName"
+msgstr "Post Author"
+
+#: .\templates\news\index.html:19
+msgid "SourceColumnName"
+msgstr "Source Post"
